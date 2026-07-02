@@ -18,16 +18,15 @@ Each solution includes:
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| # | Problem | Difficulty |
-|---|---------|------------|
 | 175 | [Combine Two Tables](Easy/175.%20Combine%20Two%20Tables.md) | 🟢 Easy |
-| 176 | Second Highest Salary | 🟡 Medium |
-| 177 | Nth Highest Salary | 🟡 Medium |
-| 178 | Rank Scores | 🟡 Medium |
+| 176 | [Second Highest Salary](Medium/176.%20Second%20Highest%20Salary.md) | 🟡 Medium |
+| 177 | [Nth Highest Salary](Medium/177.%20Nth%20Highest%20Salary.md) | 🟡 Medium |
+| 178 | [Rank Scores](Medium/178.%20Rank%20Scores.md) | 🟡 Medium |
+| 180 | [Consecutive Numbers](Medium/180.%20Consecutive%20Numbers.md) | 🟡 Medium |
 | 181 | [Employees Earning More Than Their Managers](Easy/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md) | 🟢 Easy |
 | 182 | [Duplicate Emails](Easy/182.%20Duplicate%20Emails.md) | 🟢 Easy |
 | 183 | [Customers Who Never Order](Easy/183.%20Customers%20Who%20Never%20Order.md) | 🟢 Easy |
-| 184 | Department Highest Salary | 🟡 Medium |
+| 184 | [Department Highest Salary](Medium/184.%20Department%20Highest%20Salary.md) | 🟡 Medium |
 | 185 | Department Top Three Salaries | 🔴 Hard |
 | 196 | [Delete Duplicate Emails](Easy/196.%20Delete%20Duplicate%20Emails.md) | 🟢 Easy |
 | 197 | [Rising Temperature](Easy/197.%20Rising%20Temperature.md) | 🟢 Easy |
