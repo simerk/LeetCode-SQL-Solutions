@@ -17,7 +17,7 @@ Each solution includes:
 ### 📂 Problems
 
 | No. | # | Problem | Difficulty |
-|---|---|---------|------------|
+|--:|---|---------|------------|
 | 1 | 175 | [Combine Two Tables](Easy/175.%20Combine%20Two%20Tables.md) | 🟢 Easy |
 | 2 | 176 | [Second Highest Salary](Medium/176.%20Second%20Highest%20Salary.md) | 🟡 Medium |
 | 3 | 177 | [Nth Highest Salary](Medium/177.%20Nth%20Highest%20Salary.md) | 🟡 Medium |
