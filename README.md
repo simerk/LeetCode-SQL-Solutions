@@ -62,5 +62,11 @@ Each solution includes:
 | 42 | 1174 | [Immediate Food Delivery II](Medium/1174.%20Immediate%20Food%20Delivery%20II.md) | 🟡 Medium |
 | 43 | 1179 | [Reformat Department Table](Easy/1179.%20Reformat%20Department%20Table.md) | 🟢 Easy |
 | 44 | 1193 | [Monthly Transactions I](Medium/1193.%20Monthly%20Transactions%20I.md) | 🟡 Medium |
+| 45 | 1204 | [Last Person to Fit in the Bus](Medium/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.md) | 🟡 Medium |
+| 46 | 1211 | [Queries Quality and Percentage](Easy/1211.%20Queries%20Quality%20and%20Percentage.md) | 🟢 Easy |
+| 47 | 1251 | [Average Selling Price](Easy/1251.%20Average%20Selling%20Price.md) | 🟢 Easy |
+| 48 | 1280 | [Students and Examinations](Easy/1280.%20Students%20and%20Examinations.md) | 🟢 Easy |
+| 49 | 1321 | [Restaurant Growth](Medium/1321.%20Restaurant%20Growth.md) | 🟡 Medium |
+| 50 | 1327 | [List the Products Ordered in a Period](Easy/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
