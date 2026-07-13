@@ -85,5 +85,9 @@ Each solution includes:
 | 65 | 1729 | [Find Followers Count](Easy/1729.%20Find%20Followers%20Count.md) | 🟢 Easy |
 | 66 | 1731 | [The Number of Employees Which Report to Each Employee](Easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) | 🟢 Easy |
 | 67 | 1741 | [Find Total Time Spent by Each Employee](Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) | 🟢 Easy |
+| 68 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
+| 69 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
+| 70 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
+| 71 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
