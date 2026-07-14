@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-This repository contains my solutions to SQL problems on LeetCode.
+This repository contains my MySQL solutions to Database problems on LeetCode.
 
 Each solution includes:
 
