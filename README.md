@@ -85,9 +85,16 @@ Each solution includes:
 | 65 | 1729 | [Find Followers Count](Easy/1729.%20Find%20Followers%20Count.md) | 🟢 Easy |
 | 66 | 1731 | [The Number of Employees Which Report to Each Employee](Easy/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) | 🟢 Easy |
 | 67 | 1741 | [Find Total Time Spent by Each Employee](Easy/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.md) | 🟢 Easy |
-| 68 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
-| 69 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
-| 70 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
-| 71 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
+| 68 | 1757 | [Recyclable and Low Fat Products](Easy/1757.%20Recyclable%20and%20Low%20Fat%20Products.md) | 🟢 Easy |
+| 69 | 1789 | [Primary Department for Each Employee](Easy/1789.%20Primary%20Department%20for%20Each%20Employee.md) | 🟢 Easy |
+| 70 | 1795 | [Rearrange Products Table](Easy/1795.%20Rearrange%20Products%20Table.md) | 🟢 Easy |
+| 71 | 1873 | [Calculate Special Bonus](Easy/1873.%20Calculate%20Special%20Bonus.md) | 🟢 Easy |
+| 72 | 1890 | [The Latest Login in 2020](Easy/1890.%20The%20Latest%20Login%20in%202020.md) | 🟢 Easy |
+| 73 | 1907 | [Count Salary Categories](Medium/1907.%20Count%20Salary%20Categories.md) | 🟡 Medium |
+| 74 | 1934 | [Confirmation Rate](Medium/1934.%20Confirmation%20Rate.md) | 🟡 Medium |
+| 75 | 1965 | [Employees With Missing Information](Easy/1965.%20Employees%20With%20Missing%20Information.md) | 🟢 Easy |
+| 76 | 1978 | [Employees Whose Manager Left the Company](Easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md) | 🟢 Easy |
+| 77 | 2356 | [Number of Unique Subjects Taught by Each Teacher](Easy/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md) | 🟢 Easy |
+| 78 | 3220 | [Odd and Even Transactions](Medium/3220.%20Odd%20and%20Even%20Transactions.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
